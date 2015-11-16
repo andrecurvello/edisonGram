@@ -54,7 +54,7 @@ Iniciar a aplicação:
 $ python edisonGram.py
 ```
 
-### Todos
+### A fazer
 
  - Testar com Intel Galileo - Bigger Linux Image
  - Adicionar mais comandos
