@@ -240,7 +240,7 @@ def updateIOT():
 	'field3': getTemp(),
 	'field4': getLight(),
 	'field5': numberPeople,
-	'key':'OQM848PPD8B6RDLF'})
+	'key':'OQM848PPD8B6RDLA'}) # Coloque aqui sua Chave do ThingSpeak - A minha ta mudada!
     headers = {"Content-type": "application/x-www-form-urlencoded","Accept": "text/plain"}
     conn = httplib.HTTPConnection("api.thingspeak.com:80")
     conn.request("POST", "/update", params, headers)
