@@ -12,7 +12,8 @@ import psutil
 
 LAST_UPDATE_ID = None
 chat_id = 'andremlcurvello'
-TOKEN = "144082936:AAGDrwQJWpdrMeRhC0WFUnw1mcZ9e3dasTg"
+# Coloque aqui seu Token - Este aqui ja foi revogado. Soh para exemplo.
+TOKEN = "144082936:AAGDrwQJWpdrMeRhC0WFUnw1mcC7e3dASTg"
 LIGHT_SENSOR_PIN=2
 status = 'normal'
 numberPeople = 0
